@@ -1,0 +1,54 @@
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
+class Solution {
+public:
+  vector<vector<int> > permute(vector<int> &num) {
+    if( num.size() > 0 ) {
+      // copy = num;
+      sol.push_back(num);
+      permute(num.size());
+    }
+    return sol;
+  }
+
+  void permute(int n)
+  {
+    if( n == 1 ) return;
+    int index = sol.size()-1;
+    int i=0;
+    while( i < n ) {
+      // This acts like a XOR
+      if( (i > 0) || (n == 2 && i > 0) ) {
+	// std::cout << "n = " << n << ", i = " << i << ", index = " << index << ", sol.size() = " << sol.size() << std::endl;
+	sol.push_back(sol[index]);
+	// int temp = sol[index][n-1-i];
+	sol.back()[n-1] = sol[index][i-1];
+	sol.back()[i-1] = sol[index][n-1];
+	// for( const auto & i : sol.back() ) std::cout << i;
+	// std::cout << std::endl;
+      }
+      permute(n-1);
+      ++i;
+    }
+  }
+
+  // vector<int> copy;
+  vector<vector<int > > sol;
+};
+
+int main()
+{
+  vector<int> v = {1,2,3};
+  Solution a;
+  vector<vector<int> > sol(a.permute(v));
+  for( const auto & i : sol ) {
+    for( vector<int>::const_iterator it = i.begin(); it != i.end(); ++it ) {
+      std::cout << *it;
+    }
+    std::cout << std::endl;
+  }
+  return 0;
+}

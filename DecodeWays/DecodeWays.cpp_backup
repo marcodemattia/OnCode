@@ -1,0 +1,69 @@
+#include <iostream>
+
+using namespace std;
+
+/**
+ * Use a sliding window of size two. If the first number is >mmh
+ */
+
+class Solution {
+public:
+  Solution() : result_(0), counter_(0)
+  {}
+  
+  int numDecodings(string s) {
+    if (s.size() == 0) return 0;
+    else if (s.size() == 1) return 1;
+
+    counter_ = 0;
+    result_ = 1;
+    
+    for (int i=0; i<s.size()-1; ++i) {
+
+      // We might convert them, but the digits should be ordered in the encoding.
+      if (s[i] <= '2' && s[i+1] <= '6') {
+        counter_ += 1;
+        // std::cout << "series" << std::endl;
+        // std::cout << "counter = " << counter << std::endl;
+      }
+      else if (counter_ > 0) {
+        // std::cout << "counter = " << counter << std::endl;
+        fillResult();
+      }
+
+      // std::cout << "s["<<i<<"] = " << s[i] << ", s["<<i+1<<"] = " << s[i+1] << std::endl;
+    }
+    
+    fillResult();
+    return result_;
+  }
+
+  inline void fillResult()
+  {
+    // In the Fibonacci sequence fibo(2) == 1. We shift everything by one to obtain the result.
+    // An extra +1 comes from the fact that we are not counting the last element in the sequence
+    // using counter_.
+    result_ *= fibo(counter_+2);
+    counter_ = 0;
+  }
+
+  int fibo(const int n)
+  {
+    if (n == 0) return 0;
+    else if (n == 1) return 1;
+    return (fibo(n-1) + fibo(n-2));
+  }
+  
+  int result_;
+  int counter_;
+};
+
+int main()
+{
+  std::cout << "test" << std::endl;
+  
+  // std::string s("1234");
+  std::string s("111");
+  Solution a;
+  std::cout << "there are " << a.numDecodings(s) << " ways of reading " << s << std::endl;
+}

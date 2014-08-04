@@ -1,0 +1,48 @@
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
+class Solution {
+public:
+  vector<int> grayCode(int n) {
+    n_ = n;
+    shift(0, 1);
+    return v;
+  }
+
+  void shift(int i, int j)
+  {
+    v.push_back(i);
+    std::cout << "i = " << i << " j = " << j << std::endl;
+    if( j > n_ ) {
+      int k = 2;
+      while( k <= j ) k*=2;
+      backShift(i & ((k-1)<<1), k-1, j);
+      return;
+    }
+    shift(i | j, (j<<1));
+  }
+
+  void backShift(int i, int k, int j)
+  {
+    std::cout << "i = " << i << " k = " << k << " j = " << j << " (k & j) = " << (k & j) << std::endl;
+    std::cout << "i & (k<<1) = " << (i & (k<<1)) << std::endl;
+    if( (k & j) == 0 ) return;
+    v.push_back(i);
+    backShift(i & k<<1, k<<1, j);
+  }
+
+  vector<int> v;
+  int n_;
+};
+
+int main()
+{
+  Solution a;
+  vector<int> v(a.grayCode(2));
+
+  for(const auto& it : v) std::cout << it << std::endl;
+
+  return 0;
+}
