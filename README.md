@@ -1,6 +1,4 @@
 OnCode
 ======
 
-OnCode
-
-Testing the commit.
+A collection of solutions to coding exercises on the LeetCode website.
