@@ -1,0 +1,2493 @@
+s[1] = a
+maxStart = 0
+oddLength = 3
+maxStart = 0
+evenLength = 4
+s[2] = a
+maxStart = 0
+oddLength = 5
+maxStart = 0
+evenLength = 6
+s[3] = a
+maxStart = 0
+oddLength = 7
+maxStart = 0
+evenLength = 8
+s[4] = a
+maxStart = 0
+oddLength = 9
+maxStart = 0
+evenLength = 10
+s[5] = a
+maxStart = 0
+oddLength = 11
+maxStart = 0
+evenLength = 12
+s[6] = a
+maxStart = 0
+oddLength = 13
+maxStart = 0
+evenLength = 14
+s[7] = a
+maxStart = 0
+oddLength = 15
+maxStart = 0
+evenLength = 16
+s[8] = a
+maxStart = 0
+oddLength = 17
+maxStart = 0
+evenLength = 18
+s[9] = a
+maxStart = 0
+oddLength = 19
+maxStart = 0
+evenLength = 20
+s[10] = a
+maxStart = 0
+oddLength = 21
+maxStart = 0
+evenLength = 22
+s[11] = a
+maxStart = 0
+oddLength = 23
+maxStart = 0
+evenLength = 24
+s[12] = a
+maxStart = 0
+oddLength = 25
+maxStart = 0
+evenLength = 26
+s[13] = a
+maxStart = 0
+oddLength = 27
+maxStart = 0
+evenLength = 28
+s[14] = a
+maxStart = 0
+oddLength = 29
+maxStart = 0
+evenLength = 30
+s[15] = a
+maxStart = 0
+oddLength = 31
+maxStart = 0
+evenLength = 32
+s[16] = a
+maxStart = 0
+oddLength = 33
+maxStart = 0
+evenLength = 34
+s[17] = a
+maxStart = 0
+oddLength = 35
+maxStart = 0
+evenLength = 36
+s[18] = a
+maxStart = 0
+oddLength = 37
+maxStart = 0
+evenLength = 38
+s[19] = a
+maxStart = 0
+oddLength = 39
+maxStart = 0
+evenLength = 40
+s[20] = a
+maxStart = 0
+oddLength = 41
+maxStart = 0
+evenLength = 42
+s[21] = a
+maxStart = 0
+oddLength = 43
+maxStart = 0
+evenLength = 44
+s[22] = a
+maxStart = 0
+oddLength = 45
+maxStart = 0
+evenLength = 46
+s[23] = a
+maxStart = 0
+oddLength = 47
+maxStart = 0
+evenLength = 48
+s[24] = a
+maxStart = 0
+oddLength = 49
+maxStart = 0
+evenLength = 50
+s[25] = a
+maxStart = 0
+oddLength = 51
+maxStart = 0
+evenLength = 52
+s[26] = a
+maxStart = 0
+oddLength = 53
+maxStart = 0
+evenLength = 54
+s[27] = a
+maxStart = 0
+oddLength = 55
+maxStart = 0
+evenLength = 56
+s[28] = a
+maxStart = 0
+oddLength = 57
+maxStart = 0
+evenLength = 58
+s[29] = a
+maxStart = 0
+oddLength = 59
+maxStart = 0
+evenLength = 60
+s[30] = a
+maxStart = 0
+oddLength = 61
+maxStart = 0
+evenLength = 62
+s[31] = a
+maxStart = 0
+oddLength = 63
+maxStart = 0
+evenLength = 64
+s[32] = a
+maxStart = 0
+oddLength = 65
+maxStart = 0
+evenLength = 66
+s[33] = a
+maxStart = 0
+oddLength = 67
+maxStart = 0
+evenLength = 68
+s[34] = a
+maxStart = 0
+oddLength = 69
+maxStart = 0
+evenLength = 70
+s[35] = a
+maxStart = 0
+oddLength = 71
+maxStart = 0
+evenLength = 72
+s[36] = a
+maxStart = 0
+oddLength = 73
+maxStart = 0
+evenLength = 74
+s[37] = a
+maxStart = 0
+oddLength = 75
+maxStart = 0
+evenLength = 76
+s[38] = a
+maxStart = 0
+oddLength = 77
+maxStart = 0
+evenLength = 78
+s[39] = a
+maxStart = 0
+oddLength = 79
+maxStart = 0
+evenLength = 80
+s[40] = a
+maxStart = 0
+oddLength = 81
+maxStart = 0
+evenLength = 82
+s[41] = a
+maxStart = 0
+oddLength = 83
+maxStart = 0
+evenLength = 84
+s[42] = a
+maxStart = 0
+oddLength = 85
+maxStart = 0
+evenLength = 86
+s[43] = a
+maxStart = 0
+oddLength = 87
+maxStart = 0
+evenLength = 88
+s[44] = a
+maxStart = 0
+oddLength = 89
+maxStart = 0
+evenLength = 90
+s[45] = a
+maxStart = 0
+oddLength = 91
+maxStart = 0
+evenLength = 92
+s[46] = a
+maxStart = 0
+oddLength = 93
+maxStart = 0
+evenLength = 94
+s[47] = a
+maxStart = 0
+oddLength = 95
+maxStart = 0
+evenLength = 96
+s[48] = a
+maxStart = 0
+oddLength = 97
+maxStart = 0
+evenLength = 98
+s[49] = a
+maxStart = 0
+oddLength = 99
+maxStart = 0
+evenLength = 100
+s[50] = a
+maxStart = 0
+oddLength = 101
+maxStart = 0
+evenLength = 102
+s[51] = a
+maxStart = 0
+oddLength = 103
+maxStart = 0
+evenLength = 104
+s[52] = a
+maxStart = 0
+oddLength = 105
+maxStart = 0
+evenLength = 106
+s[53] = a
+maxStart = 0
+oddLength = 107
+maxStart = 0
+evenLength = 108
+s[54] = a
+maxStart = 0
+oddLength = 109
+maxStart = 0
+evenLength = 110
+s[55] = a
+maxStart = 0
+oddLength = 111
+maxStart = 0
+evenLength = 112
+s[56] = a
+maxStart = 0
+oddLength = 113
+maxStart = 0
+evenLength = 114
+s[57] = a
+maxStart = 0
+oddLength = 115
+maxStart = 0
+evenLength = 116
+s[58] = a
+maxStart = 0
+oddLength = 117
+maxStart = 0
+evenLength = 118
+s[59] = a
+maxStart = 0
+oddLength = 119
+maxStart = 0
+evenLength = 120
+s[60] = a
+maxStart = 0
+oddLength = 121
+maxStart = 0
+evenLength = 122
+s[61] = a
+maxStart = 0
+oddLength = 123
+maxStart = 0
+evenLength = 124
+s[62] = a
+maxStart = 0
+oddLength = 125
+maxStart = 0
+evenLength = 126
+s[63] = a
+maxStart = 0
+oddLength = 127
+maxStart = 0
+evenLength = 128
+s[64] = a
+maxStart = 0
+oddLength = 129
+maxStart = 0
+evenLength = 130
+s[65] = a
+maxStart = 0
+oddLength = 131
+maxStart = 0
+evenLength = 132
+s[66] = a
+maxStart = 0
+oddLength = 133
+maxStart = 0
+evenLength = 134
+s[67] = a
+maxStart = 0
+oddLength = 135
+maxStart = 0
+evenLength = 136
+s[68] = a
+maxStart = 0
+oddLength = 137
+maxStart = 0
+evenLength = 138
+s[69] = a
+maxStart = 0
+oddLength = 139
+maxStart = 0
+evenLength = 140
+s[70] = a
+maxStart = 0
+oddLength = 141
+maxStart = 0
+evenLength = 142
+s[71] = a
+maxStart = 0
+oddLength = 143
+maxStart = 0
+evenLength = 144
+s[72] = a
+maxStart = 0
+oddLength = 145
+maxStart = 0
+evenLength = 146
+s[73] = a
+maxStart = 0
+oddLength = 147
+maxStart = 0
+evenLength = 148
+s[74] = a
+maxStart = 0
+oddLength = 149
+maxStart = 0
+evenLength = 150
+s[75] = a
+maxStart = 0
+oddLength = 151
+maxStart = 0
+evenLength = 152
+s[76] = a
+maxStart = 0
+oddLength = 153
+maxStart = 0
+evenLength = 154
+s[77] = a
+maxStart = 0
+oddLength = 155
+maxStart = 0
+evenLength = 156
+s[78] = a
+maxStart = 0
+oddLength = 157
+maxStart = 0
+evenLength = 158
+s[79] = a
+maxStart = 0
+oddLength = 159
+maxStart = 0
+evenLength = 160
+s[80] = a
+maxStart = 0
+oddLength = 161
+maxStart = 0
+evenLength = 162
+s[81] = a
+maxStart = 0
+oddLength = 163
+maxStart = 0
+evenLength = 164
+s[82] = a
+maxStart = 0
+oddLength = 165
+maxStart = 0
+evenLength = 166
+s[83] = a
+maxStart = 0
+oddLength = 167
+maxStart = 0
+evenLength = 168
+s[84] = a
+maxStart = 0
+oddLength = 169
+maxStart = 0
+evenLength = 170
+s[85] = a
+maxStart = 0
+oddLength = 171
+maxStart = 0
+evenLength = 172
+s[86] = a
+maxStart = 0
+oddLength = 173
+maxStart = 0
+evenLength = 174
+s[87] = a
+maxStart = 0
+oddLength = 175
+maxStart = 0
+evenLength = 176
+s[88] = a
+maxStart = 0
+oddLength = 177
+maxStart = 0
+evenLength = 178
+s[89] = a
+maxStart = 0
+oddLength = 179
+maxStart = 0
+evenLength = 180
+s[90] = a
+maxStart = 0
+oddLength = 181
+maxStart = 0
+evenLength = 182
+s[91] = a
+maxStart = 0
+oddLength = 183
+maxStart = 0
+evenLength = 184
+s[92] = a
+maxStart = 0
+oddLength = 185
+maxStart = 0
+evenLength = 186
+s[93] = a
+maxStart = 0
+oddLength = 187
+maxStart = 0
+evenLength = 188
+s[94] = a
+maxStart = 0
+oddLength = 189
+maxStart = 0
+evenLength = 190
+s[95] = a
+maxStart = 0
+oddLength = 191
+maxStart = 0
+evenLength = 192
+s[96] = a
+maxStart = 0
+oddLength = 193
+maxStart = 0
+evenLength = 194
+s[97] = a
+maxStart = 0
+oddLength = 195
+maxStart = 0
+evenLength = 196
+s[98] = a
+maxStart = 0
+oddLength = 197
+maxStart = 0
+evenLength = 198
+s[99] = a
+maxStart = 0
+oddLength = 199
+maxStart = 0
+evenLength = 200
+s[100] = a
+maxStart = 0
+oddLength = 201
+maxStart = 0
+evenLength = 202
+s[101] = a
+maxStart = 0
+oddLength = 203
+maxStart = 0
+evenLength = 204
+s[102] = a
+maxStart = 0
+oddLength = 205
+maxStart = 0
+evenLength = 206
+s[103] = a
+maxStart = 0
+oddLength = 207
+maxStart = 0
+evenLength = 208
+s[104] = a
+maxStart = 0
+oddLength = 209
+maxStart = 0
+evenLength = 210
+s[105] = a
+maxStart = 0
+oddLength = 211
+maxStart = 0
+evenLength = 212
+s[106] = a
+maxStart = 0
+oddLength = 213
+maxStart = 0
+evenLength = 214
+s[107] = a
+maxStart = 0
+oddLength = 215
+maxStart = 0
+evenLength = 216
+s[108] = a
+maxStart = 0
+oddLength = 217
+maxStart = 0
+evenLength = 218
+s[109] = a
+maxStart = 0
+oddLength = 219
+maxStart = 0
+evenLength = 220
+s[110] = a
+maxStart = 0
+oddLength = 221
+maxStart = 0
+evenLength = 222
+s[111] = a
+maxStart = 0
+oddLength = 223
+maxStart = 0
+evenLength = 224
+s[112] = a
+maxStart = 0
+oddLength = 225
+maxStart = 0
+evenLength = 226
+s[113] = a
+maxStart = 0
+oddLength = 227
+maxStart = 0
+evenLength = 228
+s[114] = a
+maxStart = 0
+oddLength = 229
+maxStart = 0
+evenLength = 230
+s[115] = a
+maxStart = 0
+oddLength = 231
+maxStart = 0
+evenLength = 232
+s[116] = a
+maxStart = 0
+oddLength = 233
+maxStart = 0
+evenLength = 234
+s[117] = a
+maxStart = 0
+oddLength = 235
+maxStart = 0
+evenLength = 236
+s[118] = a
+maxStart = 0
+oddLength = 237
+maxStart = 0
+evenLength = 238
+s[119] = a
+maxStart = 0
+oddLength = 239
+maxStart = 0
+evenLength = 240
+s[120] = a
+maxStart = 0
+oddLength = 241
+maxStart = 0
+evenLength = 242
+s[121] = a
+maxStart = 0
+oddLength = 243
+maxStart = 0
+evenLength = 244
+s[122] = a
+maxStart = 0
+oddLength = 245
+maxStart = 0
+evenLength = 246
+s[123] = a
+maxStart = 0
+oddLength = 247
+maxStart = 0
+evenLength = 248
+s[124] = a
+maxStart = 0
+oddLength = 249
+maxStart = 0
+evenLength = 250
+s[125] = a
+maxStart = 0
+oddLength = 251
+maxStart = 0
+evenLength = 252
+s[126] = a
+maxStart = 0
+oddLength = 253
+maxStart = 0
+evenLength = 254
+s[127] = a
+maxStart = 0
+oddLength = 255
+maxStart = 0
+evenLength = 256
+s[128] = a
+maxStart = 0
+oddLength = 257
+maxStart = 0
+evenLength = 258
+s[129] = a
+maxStart = 0
+oddLength = 259
+maxStart = 0
+evenLength = 260
+s[130] = a
+maxStart = 0
+oddLength = 261
+maxStart = 0
+evenLength = 262
+s[131] = a
+maxStart = 0
+oddLength = 263
+maxStart = 0
+evenLength = 264
+s[132] = a
+maxStart = 0
+oddLength = 265
+maxStart = 0
+evenLength = 266
+s[133] = a
+maxStart = 0
+oddLength = 267
+maxStart = 0
+evenLength = 268
+s[134] = a
+maxStart = 0
+oddLength = 269
+maxStart = 0
+evenLength = 270
+s[135] = a
+maxStart = 0
+oddLength = 271
+maxStart = 0
+evenLength = 272
+s[136] = a
+maxStart = 0
+oddLength = 273
+maxStart = 0
+evenLength = 274
+s[137] = a
+maxStart = 0
+oddLength = 275
+maxStart = 0
+evenLength = 276
+s[138] = a
+maxStart = 0
+oddLength = 277
+maxStart = 0
+evenLength = 278
+s[139] = a
+maxStart = 0
+oddLength = 279
+maxStart = 0
+evenLength = 280
+s[140] = a
+maxStart = 0
+oddLength = 281
+maxStart = 0
+evenLength = 282
+s[141] = a
+maxStart = 0
+oddLength = 283
+maxStart = 0
+evenLength = 284
+s[142] = a
+maxStart = 0
+oddLength = 285
+maxStart = 0
+evenLength = 286
+s[143] = a
+maxStart = 0
+oddLength = 287
+maxStart = 0
+evenLength = 288
+s[144] = a
+maxStart = 0
+oddLength = 289
+maxStart = 0
+evenLength = 290
+s[145] = a
+maxStart = 0
+oddLength = 291
+maxStart = 0
+evenLength = 292
+s[146] = a
+maxStart = 0
+oddLength = 293
+maxStart = 0
+evenLength = 294
+s[147] = a
+maxStart = 0
+oddLength = 295
+maxStart = 0
+evenLength = 296
+s[148] = a
+maxStart = 0
+oddLength = 297
+maxStart = 0
+evenLength = 298
+s[149] = a
+maxStart = 0
+oddLength = 299
+maxStart = 0
+evenLength = 300
+s[150] = a
+maxStart = 0
+oddLength = 301
+maxStart = 0
+evenLength = 302
+s[151] = a
+maxStart = 0
+oddLength = 303
+maxStart = 0
+evenLength = 304
+s[152] = a
+maxStart = 0
+oddLength = 305
+maxStart = 0
+evenLength = 306
+s[153] = a
+maxStart = 0
+oddLength = 307
+maxStart = 0
+evenLength = 308
+s[154] = a
+maxStart = 0
+oddLength = 309
+maxStart = 0
+evenLength = 310
+s[155] = a
+maxStart = 0
+oddLength = 311
+maxStart = 0
+evenLength = 312
+s[156] = a
+maxStart = 0
+oddLength = 313
+maxStart = 0
+evenLength = 314
+s[157] = a
+maxStart = 0
+oddLength = 315
+maxStart = 0
+evenLength = 316
+s[158] = a
+maxStart = 0
+oddLength = 317
+maxStart = 0
+evenLength = 318
+s[159] = a
+maxStart = 0
+oddLength = 319
+maxStart = 0
+evenLength = 320
+s[160] = a
+maxStart = 0
+oddLength = 321
+maxStart = 0
+evenLength = 322
+s[161] = a
+maxStart = 0
+oddLength = 323
+maxStart = 0
+evenLength = 324
+s[162] = a
+maxStart = 0
+oddLength = 325
+maxStart = 0
+evenLength = 326
+s[163] = a
+maxStart = 0
+oddLength = 327
+maxStart = 0
+evenLength = 328
+s[164] = a
+maxStart = 0
+oddLength = 329
+maxStart = 0
+evenLength = 330
+s[165] = a
+maxStart = 0
+oddLength = 331
+maxStart = 0
+evenLength = 332
+s[166] = a
+maxStart = 0
+oddLength = 333
+maxStart = 0
+evenLength = 334
+s[167] = a
+maxStart = 0
+oddLength = 335
+maxStart = 0
+evenLength = 336
+s[168] = a
+maxStart = 0
+oddLength = 337
+maxStart = 0
+evenLength = 338
+s[169] = a
+maxStart = 0
+oddLength = 339
+maxStart = 0
+evenLength = 340
+s[170] = a
+maxStart = 0
+oddLength = 341
+maxStart = 0
+evenLength = 342
+s[171] = a
+maxStart = 0
+oddLength = 343
+maxStart = 0
+evenLength = 344
+s[172] = a
+maxStart = 0
+oddLength = 345
+maxStart = 0
+evenLength = 346
+s[173] = a
+maxStart = 0
+oddLength = 347
+maxStart = 0
+evenLength = 348
+s[174] = a
+maxStart = 0
+oddLength = 349
+maxStart = 0
+evenLength = 350
+s[175] = a
+maxStart = 0
+oddLength = 351
+maxStart = 0
+evenLength = 352
+s[176] = a
+maxStart = 0
+oddLength = 353
+maxStart = 0
+evenLength = 354
+s[177] = a
+maxStart = 0
+oddLength = 355
+maxStart = 0
+evenLength = 356
+s[178] = a
+maxStart = 0
+oddLength = 357
+maxStart = 0
+evenLength = 358
+s[179] = a
+maxStart = 0
+oddLength = 359
+maxStart = 0
+evenLength = 360
+s[180] = a
+maxStart = 0
+oddLength = 361
+maxStart = 0
+evenLength = 362
+s[181] = a
+maxStart = 0
+oddLength = 363
+maxStart = 0
+evenLength = 364
+s[182] = a
+maxStart = 0
+oddLength = 365
+maxStart = 0
+evenLength = 366
+s[183] = a
+maxStart = 0
+oddLength = 367
+maxStart = 0
+evenLength = 368
+s[184] = a
+maxStart = 0
+oddLength = 369
+maxStart = 0
+evenLength = 370
+s[185] = a
+maxStart = 0
+oddLength = 371
+maxStart = 0
+evenLength = 372
+s[186] = a
+maxStart = 0
+oddLength = 373
+maxStart = 0
+evenLength = 374
+s[187] = a
+maxStart = 0
+oddLength = 375
+maxStart = 0
+evenLength = 376
+s[188] = a
+maxStart = 0
+oddLength = 377
+maxStart = 0
+evenLength = 378
+s[189] = a
+maxStart = 0
+oddLength = 379
+maxStart = 0
+evenLength = 380
+s[190] = a
+maxStart = 0
+oddLength = 381
+maxStart = 0
+evenLength = 382
+s[191] = a
+maxStart = 0
+oddLength = 383
+maxStart = 0
+evenLength = 384
+s[192] = a
+maxStart = 0
+oddLength = 385
+maxStart = 0
+evenLength = 386
+s[193] = a
+maxStart = 0
+oddLength = 387
+maxStart = 0
+evenLength = 388
+s[194] = a
+maxStart = 0
+oddLength = 389
+maxStart = 0
+evenLength = 390
+s[195] = a
+maxStart = 0
+oddLength = 391
+maxStart = 0
+evenLength = 392
+s[196] = a
+maxStart = 0
+oddLength = 393
+maxStart = 0
+evenLength = 394
+s[197] = a
+maxStart = 0
+oddLength = 395
+maxStart = 0
+evenLength = 396
+s[198] = a
+maxStart = 0
+oddLength = 397
+maxStart = 0
+evenLength = 398
+s[199] = a
+maxStart = 0
+oddLength = 399
+maxStart = 0
+evenLength = 400
+s[200] = a
+maxStart = 0
+oddLength = 401
+maxStart = 0
+evenLength = 402
+s[201] = a
+maxStart = 0
+oddLength = 403
+maxStart = 0
+evenLength = 404
+s[202] = a
+maxStart = 0
+oddLength = 405
+maxStart = 0
+evenLength = 406
+s[203] = a
+maxStart = 0
+oddLength = 407
+maxStart = 0
+evenLength = 408
+s[204] = a
+maxStart = 0
+oddLength = 409
+maxStart = 0
+evenLength = 410
+s[205] = a
+maxStart = 0
+oddLength = 411
+maxStart = 0
+evenLength = 412
+s[206] = a
+maxStart = 0
+oddLength = 413
+maxStart = 0
+evenLength = 414
+s[207] = a
+maxStart = 0
+oddLength = 415
+maxStart = 0
+evenLength = 416
+s[208] = a
+maxStart = 0
+oddLength = 417
+maxStart = 0
+evenLength = 418
+s[209] = a
+maxStart = 0
+oddLength = 419
+maxStart = 0
+evenLength = 420
+s[210] = a
+maxStart = 0
+oddLength = 421
+maxStart = 0
+evenLength = 422
+s[211] = a
+maxStart = 0
+oddLength = 423
+maxStart = 0
+evenLength = 424
+s[212] = a
+maxStart = 0
+oddLength = 425
+maxStart = 0
+evenLength = 426
+s[213] = a
+maxStart = 0
+oddLength = 427
+maxStart = 0
+evenLength = 428
+s[214] = a
+maxStart = 0
+oddLength = 429
+maxStart = 0
+evenLength = 430
+s[215] = a
+maxStart = 0
+oddLength = 431
+maxStart = 0
+evenLength = 432
+s[216] = a
+maxStart = 0
+oddLength = 433
+maxStart = 0
+evenLength = 434
+s[217] = a
+maxStart = 0
+oddLength = 435
+maxStart = 0
+evenLength = 436
+s[218] = a
+maxStart = 0
+oddLength = 437
+maxStart = 0
+evenLength = 438
+s[219] = a
+maxStart = 0
+oddLength = 439
+maxStart = 0
+evenLength = 440
+s[220] = a
+maxStart = 0
+oddLength = 441
+maxStart = 0
+evenLength = 442
+s[221] = a
+maxStart = 0
+oddLength = 443
+maxStart = 0
+evenLength = 444
+s[222] = a
+maxStart = 0
+oddLength = 445
+maxStart = 0
+evenLength = 446
+s[223] = a
+maxStart = 0
+oddLength = 447
+maxStart = 0
+evenLength = 448
+s[224] = a
+maxStart = 0
+oddLength = 449
+maxStart = 0
+evenLength = 450
+s[225] = a
+maxStart = 0
+oddLength = 451
+maxStart = 0
+evenLength = 452
+s[226] = a
+maxStart = 0
+oddLength = 453
+maxStart = 0
+evenLength = 454
+s[227] = a
+maxStart = 0
+oddLength = 455
+maxStart = 0
+evenLength = 456
+s[228] = a
+maxStart = 0
+oddLength = 457
+maxStart = 0
+evenLength = 458
+s[229] = a
+maxStart = 0
+oddLength = 459
+maxStart = 0
+evenLength = 460
+s[230] = a
+maxStart = 0
+oddLength = 461
+maxStart = 0
+evenLength = 462
+s[231] = a
+maxStart = 0
+oddLength = 463
+maxStart = 0
+evenLength = 464
+s[232] = a
+maxStart = 0
+oddLength = 465
+maxStart = 0
+evenLength = 466
+s[233] = a
+maxStart = 0
+oddLength = 467
+maxStart = 0
+evenLength = 468
+s[234] = a
+maxStart = 0
+oddLength = 469
+maxStart = 0
+evenLength = 470
+s[235] = a
+maxStart = 0
+oddLength = 471
+maxStart = 0
+evenLength = 472
+s[236] = a
+maxStart = 0
+oddLength = 473
+maxStart = 0
+evenLength = 474
+s[237] = a
+maxStart = 0
+oddLength = 475
+maxStart = 0
+evenLength = 476
+s[238] = a
+maxStart = 0
+oddLength = 477
+maxStart = 0
+evenLength = 478
+s[239] = a
+maxStart = 0
+oddLength = 479
+maxStart = 0
+evenLength = 480
+s[240] = a
+maxStart = 0
+oddLength = 481
+maxStart = 0
+evenLength = 482
+s[241] = a
+maxStart = 0
+oddLength = 483
+maxStart = 0
+evenLength = 484
+s[242] = a
+maxStart = 0
+oddLength = 485
+maxStart = 0
+evenLength = 486
+s[243] = a
+maxStart = 0
+oddLength = 487
+maxStart = 0
+evenLength = 488
+s[244] = a
+maxStart = 0
+oddLength = 489
+maxStart = 0
+evenLength = 490
+s[245] = a
+maxStart = 0
+oddLength = 491
+maxStart = 0
+evenLength = 492
+s[246] = a
+maxStart = 0
+oddLength = 493
+maxStart = 0
+evenLength = 494
+s[247] = a
+maxStart = 0
+oddLength = 495
+maxStart = 0
+evenLength = 496
+s[248] = a
+maxStart = 0
+oddLength = 497
+maxStart = 0
+evenLength = 498
+s[249] = a
+maxStart = 0
+evenLength = 500
+s[250] = a
+even: s[1] == s[498] = a == b
+s[251] = a
+even: s[3] == s[498] = a == b
+s[252] = a
+even: s[5] == s[498] = a == b
+s[253] = a
+even: s[7] == s[498] = a == b
+s[254] = a
+even: s[9] == s[498] = a == b
+s[255] = a
+even: s[11] == s[498] = a == b
+s[256] = a
+even: s[13] == s[498] = a == b
+s[257] = a
+even: s[15] == s[498] = a == b
+s[258] = a
+even: s[17] == s[498] = a == b
+s[259] = a
+even: s[19] == s[498] = a == b
+s[260] = a
+even: s[21] == s[498] = a == b
+s[261] = a
+even: s[23] == s[498] = a == b
+s[262] = a
+even: s[25] == s[498] = a == b
+s[263] = a
+even: s[27] == s[498] = a == b
+s[264] = a
+even: s[29] == s[498] = a == b
+s[265] = a
+even: s[31] == s[498] = a == b
+s[266] = a
+even: s[33] == s[498] = a == b
+s[267] = a
+even: s[35] == s[498] = a == b
+s[268] = a
+even: s[37] == s[498] = a == b
+s[269] = a
+even: s[39] == s[498] = a == b
+s[270] = a
+even: s[41] == s[498] = a == b
+s[271] = a
+even: s[43] == s[498] = a == b
+s[272] = a
+even: s[45] == s[498] = a == b
+s[273] = a
+even: s[47] == s[498] = a == b
+s[274] = a
+even: s[49] == s[498] = a == b
+s[275] = a
+even: s[51] == s[498] = a == b
+s[276] = a
+even: s[53] == s[498] = a == b
+s[277] = a
+even: s[55] == s[498] = a == b
+s[278] = a
+even: s[57] == s[498] = a == b
+s[279] = a
+even: s[59] == s[498] = a == b
+s[280] = a
+even: s[61] == s[498] = a == b
+s[281] = a
+even: s[63] == s[498] = a == b
+s[282] = a
+even: s[65] == s[498] = a == b
+s[283] = a
+even: s[67] == s[498] = a == b
+s[284] = a
+even: s[69] == s[498] = a == b
+s[285] = a
+even: s[71] == s[498] = a == b
+s[286] = a
+even: s[73] == s[498] = a == b
+s[287] = a
+even: s[75] == s[498] = a == b
+s[288] = a
+even: s[77] == s[498] = a == b
+s[289] = a
+even: s[79] == s[498] = a == b
+s[290] = a
+even: s[81] == s[498] = a == b
+s[291] = a
+even: s[83] == s[498] = a == b
+s[292] = a
+even: s[85] == s[498] = a == b
+s[293] = a
+even: s[87] == s[498] = a == b
+s[294] = a
+even: s[89] == s[498] = a == b
+s[295] = a
+even: s[91] == s[498] = a == b
+s[296] = a
+even: s[93] == s[498] = a == b
+s[297] = a
+even: s[95] == s[498] = a == b
+s[298] = a
+even: s[97] == s[498] = a == b
+s[299] = a
+even: s[99] == s[498] = a == b
+s[300] = a
+even: s[101] == s[498] = a == b
+s[301] = a
+even: s[103] == s[498] = a == b
+s[302] = a
+even: s[105] == s[498] = a == b
+s[303] = a
+even: s[107] == s[498] = a == b
+s[304] = a
+even: s[109] == s[498] = a == b
+s[305] = a
+even: s[111] == s[498] = a == b
+s[306] = a
+even: s[113] == s[498] = a == b
+s[307] = a
+even: s[115] == s[498] = a == b
+s[308] = a
+even: s[117] == s[498] = a == b
+s[309] = a
+even: s[119] == s[498] = a == b
+s[310] = a
+even: s[121] == s[498] = a == b
+s[311] = a
+even: s[123] == s[498] = a == b
+s[312] = a
+even: s[125] == s[498] = a == b
+s[313] = a
+even: s[127] == s[498] = a == b
+s[314] = a
+even: s[129] == s[498] = a == b
+s[315] = a
+even: s[131] == s[498] = a == b
+s[316] = a
+even: s[133] == s[498] = a == b
+s[317] = a
+even: s[135] == s[498] = a == b
+s[318] = a
+even: s[137] == s[498] = a == b
+s[319] = a
+even: s[139] == s[498] = a == b
+s[320] = a
+even: s[141] == s[498] = a == b
+s[321] = a
+even: s[143] == s[498] = a == b
+s[322] = a
+even: s[145] == s[498] = a == b
+s[323] = a
+even: s[147] == s[498] = a == b
+s[324] = a
+even: s[149] == s[498] = a == b
+s[325] = a
+even: s[151] == s[498] = a == b
+s[326] = a
+even: s[153] == s[498] = a == b
+s[327] = a
+even: s[155] == s[498] = a == b
+s[328] = a
+even: s[157] == s[498] = a == b
+s[329] = a
+even: s[159] == s[498] = a == b
+s[330] = a
+even: s[161] == s[498] = a == b
+s[331] = a
+even: s[163] == s[498] = a == b
+s[332] = a
+even: s[165] == s[498] = a == b
+s[333] = a
+even: s[167] == s[498] = a == b
+s[334] = a
+even: s[169] == s[498] = a == b
+s[335] = a
+even: s[171] == s[498] = a == b
+s[336] = a
+even: s[173] == s[498] = a == b
+s[337] = a
+even: s[175] == s[498] = a == b
+s[338] = a
+even: s[177] == s[498] = a == b
+s[339] = a
+even: s[179] == s[498] = a == b
+s[340] = a
+even: s[181] == s[498] = a == b
+s[341] = a
+even: s[183] == s[498] = a == b
+s[342] = a
+even: s[185] == s[498] = a == b
+s[343] = a
+even: s[187] == s[498] = a == b
+s[344] = a
+even: s[189] == s[498] = a == b
+s[345] = a
+even: s[191] == s[498] = a == b
+s[346] = a
+even: s[193] == s[498] = a == b
+s[347] = a
+even: s[195] == s[498] = a == b
+s[348] = a
+even: s[197] == s[498] = a == b
+s[349] = a
+even: s[199] == s[498] = a == b
+s[350] = a
+even: s[201] == s[498] = a == b
+s[351] = a
+even: s[203] == s[498] = a == b
+s[352] = a
+even: s[205] == s[498] = a == b
+s[353] = a
+even: s[207] == s[498] = a == b
+s[354] = a
+even: s[209] == s[498] = a == b
+s[355] = a
+even: s[211] == s[498] = a == b
+s[356] = a
+even: s[213] == s[498] = a == b
+s[357] = a
+even: s[215] == s[498] = a == b
+s[358] = a
+even: s[217] == s[498] = a == b
+s[359] = a
+even: s[219] == s[498] = a == b
+s[360] = a
+even: s[221] == s[498] = a == b
+s[361] = a
+even: s[223] == s[498] = a == b
+s[362] = a
+even: s[225] == s[498] = a == b
+s[363] = a
+even: s[227] == s[498] = a == b
+s[364] = a
+even: s[229] == s[498] = a == b
+s[365] = a
+even: s[231] == s[498] = a == b
+s[366] = a
+even: s[233] == s[498] = a == b
+s[367] = a
+even: s[235] == s[498] = a == b
+s[368] = a
+even: s[237] == s[498] = a == b
+s[369] = a
+even: s[239] == s[498] = a == b
+s[370] = a
+even: s[241] == s[498] = a == b
+s[371] = a
+even: s[243] == s[498] = a == b
+s[372] = a
+even: s[245] == s[498] = a == b
+s[373] = a
+even: s[247] == s[498] = a == b
+s[374] = a
+even: s[249] == s[498] = a == b
+s[375] = a
+even: s[251] == s[498] = a == b
+s[376] = a
+even: s[253] == s[498] = a == b
+s[377] = a
+even: s[255] == s[498] = a == b
+s[378] = a
+even: s[257] == s[498] = a == b
+s[379] = a
+even: s[259] == s[498] = a == b
+s[380] = a
+even: s[261] == s[498] = a == b
+s[381] = a
+even: s[263] == s[498] = a == b
+s[382] = a
+even: s[265] == s[498] = a == b
+s[383] = a
+even: s[267] == s[498] = a == b
+s[384] = a
+even: s[269] == s[498] = a == b
+s[385] = a
+even: s[271] == s[498] = a == b
+s[386] = a
+even: s[273] == s[498] = a == b
+s[387] = a
+even: s[275] == s[498] = a == b
+s[388] = a
+even: s[277] == s[498] = a == b
+s[389] = a
+even: s[279] == s[498] = a == b
+s[390] = a
+even: s[281] == s[498] = a == b
+s[391] = a
+even: s[283] == s[498] = a == b
+s[392] = a
+even: s[285] == s[498] = a == b
+s[393] = a
+even: s[287] == s[498] = a == b
+s[394] = a
+even: s[289] == s[498] = a == b
+s[395] = a
+even: s[291] == s[498] = a == b
+s[396] = a
+even: s[293] == s[498] = a == b
+s[397] = a
+even: s[295] == s[498] = a == b
+s[398] = a
+even: s[297] == s[498] = a == b
+s[399] = a
+even: s[299] == s[498] = a == b
+s[400] = a
+even: s[301] == s[498] = a == b
+s[401] = a
+even: s[303] == s[498] = a == b
+s[402] = a
+even: s[305] == s[498] = a == b
+s[403] = a
+even: s[307] == s[498] = a == b
+s[404] = a
+even: s[309] == s[498] = a == b
+s[405] = a
+even: s[311] == s[498] = a == b
+s[406] = a
+even: s[313] == s[498] = a == b
+s[407] = a
+even: s[315] == s[498] = a == b
+s[408] = a
+even: s[317] == s[498] = a == b
+s[409] = a
+even: s[319] == s[498] = a == b
+s[410] = a
+even: s[321] == s[498] = a == b
+s[411] = a
+even: s[323] == s[498] = a == b
+s[412] = a
+even: s[325] == s[498] = a == b
+s[413] = a
+even: s[327] == s[498] = a == b
+s[414] = a
+even: s[329] == s[498] = a == b
+s[415] = a
+even: s[331] == s[498] = a == b
+s[416] = a
+even: s[333] == s[498] = a == b
+s[417] = a
+even: s[335] == s[498] = a == b
+s[418] = a
+even: s[337] == s[498] = a == b
+s[419] = a
+even: s[339] == s[498] = a == b
+s[420] = a
+even: s[341] == s[498] = a == b
+s[421] = a
+even: s[343] == s[498] = a == b
+s[422] = a
+even: s[345] == s[498] = a == b
+s[423] = a
+even: s[347] == s[498] = a == b
+s[424] = a
+even: s[349] == s[498] = a == b
+s[425] = a
+even: s[351] == s[498] = a == b
+s[426] = a
+even: s[353] == s[498] = a == b
+s[427] = a
+even: s[355] == s[498] = a == b
+s[428] = a
+even: s[357] == s[498] = a == b
+s[429] = a
+even: s[359] == s[498] = a == b
+s[430] = a
+even: s[361] == s[498] = a == b
+s[431] = a
+even: s[363] == s[498] = a == b
+s[432] = a
+even: s[365] == s[498] = a == b
+s[433] = a
+even: s[367] == s[498] = a == b
+s[434] = a
+even: s[369] == s[498] = a == b
+s[435] = a
+even: s[371] == s[498] = a == b
+s[436] = a
+even: s[373] == s[498] = a == b
+s[437] = a
+even: s[375] == s[498] = a == b
+s[438] = a
+even: s[377] == s[498] = a == b
+s[439] = a
+even: s[379] == s[498] = a == b
+s[440] = a
+even: s[381] == s[498] = a == b
+s[441] = a
+even: s[383] == s[498] = a == b
+s[442] = a
+even: s[385] == s[498] = a == b
+s[443] = a
+even: s[387] == s[498] = a == b
+s[444] = a
+even: s[389] == s[498] = a == b
+s[445] = a
+even: s[391] == s[498] = a == b
+s[446] = a
+even: s[393] == s[498] = a == b
+s[447] = a
+even: s[395] == s[498] = a == b
+s[448] = a
+even: s[397] == s[498] = a == b
+s[449] = a
+even: s[399] == s[498] = a == b
+s[450] = a
+even: s[401] == s[498] = a == b
+s[451] = a
+even: s[403] == s[498] = a == b
+s[452] = a
+even: s[405] == s[498] = a == b
+s[453] = a
+even: s[407] == s[498] = a == b
+s[454] = a
+even: s[409] == s[498] = a == b
+s[455] = a
+even: s[411] == s[498] = a == b
+s[456] = a
+even: s[413] == s[498] = a == b
+s[457] = a
+even: s[415] == s[498] = a == b
+s[458] = a
+even: s[417] == s[498] = a == b
+s[459] = a
+even: s[419] == s[498] = a == b
+s[460] = a
+even: s[421] == s[498] = a == b
+s[461] = a
+even: s[423] == s[498] = a == b
+s[462] = a
+even: s[425] == s[498] = a == b
+s[463] = a
+even: s[427] == s[498] = a == b
+s[464] = a
+even: s[429] == s[498] = a == b
+s[465] = a
+even: s[431] == s[498] = a == b
+s[466] = a
+even: s[433] == s[498] = a == b
+s[467] = a
+even: s[435] == s[498] = a == b
+s[468] = a
+even: s[437] == s[498] = a == b
+s[469] = a
+even: s[439] == s[498] = a == b
+s[470] = a
+even: s[441] == s[498] = a == b
+s[471] = a
+even: s[443] == s[498] = a == b
+s[472] = a
+even: s[445] == s[498] = a == b
+s[473] = a
+even: s[447] == s[498] = a == b
+s[474] = a
+even: s[449] == s[498] = a == b
+s[475] = a
+even: s[451] == s[498] = a == b
+s[476] = a
+even: s[453] == s[498] = a == b
+s[477] = a
+even: s[455] == s[498] = a == b
+s[478] = a
+even: s[457] == s[498] = a == b
+s[479] = a
+even: s[459] == s[498] = a == b
+s[480] = a
+even: s[461] == s[498] = a == b
+s[481] = a
+even: s[463] == s[498] = a == b
+s[482] = a
+even: s[465] == s[498] = a == b
+s[483] = a
+even: s[467] == s[498] = a == b
+s[484] = a
+even: s[469] == s[498] = a == b
+s[485] = a
+even: s[471] == s[498] = a == b
+s[486] = a
+even: s[473] == s[498] = a == b
+s[487] = a
+even: s[475] == s[498] = a == b
+s[488] = a
+even: s[477] == s[498] = a == b
+s[489] = a
+even: s[479] == s[498] = a == b
+s[490] = a
+even: s[481] == s[498] = a == b
+s[491] = a
+even: s[483] == s[498] = a == b
+s[492] = a
+even: s[485] == s[498] = a == b
+s[493] = a
+even: s[487] == s[498] = a == b
+s[494] = a
+even: s[489] == s[498] = a == b
+s[495] = a
+even: s[491] == s[498] = a == b
+s[496] = a
+even: s[493] == s[498] = a == b
+s[497] = a
+even: s[495] == s[498] = a == b
+s[498] = b
+even: s[497] == s[498] = a == b
+s[499] = c
+even: s[498] == s[499] = b == c
+s[500] = a
+even: s[499] == s[500] = c == a
+s[501] = a
+even: s[499] == s[502] = c == a
+s[502] = a
+even: s[499] == s[504] = c == a
+s[503] = a
+even: s[499] == s[506] = c == a
+s[504] = a
+even: s[499] == s[508] = c == a
+s[505] = a
+even: s[499] == s[510] = c == a
+s[506] = a
+even: s[499] == s[512] = c == a
+s[507] = a
+even: s[499] == s[514] = c == a
+s[508] = a
+even: s[499] == s[516] = c == a
+s[509] = a
+even: s[499] == s[518] = c == a
+s[510] = a
+even: s[499] == s[520] = c == a
+s[511] = a
+even: s[499] == s[522] = c == a
+s[512] = a
+even: s[499] == s[524] = c == a
+s[513] = a
+even: s[499] == s[526] = c == a
+s[514] = a
+even: s[499] == s[528] = c == a
+s[515] = a
+even: s[499] == s[530] = c == a
+s[516] = a
+even: s[499] == s[532] = c == a
+s[517] = a
+even: s[499] == s[534] = c == a
+s[518] = a
+even: s[499] == s[536] = c == a
+s[519] = a
+even: s[499] == s[538] = c == a
+s[520] = a
+even: s[499] == s[540] = c == a
+s[521] = a
+even: s[499] == s[542] = c == a
+s[522] = a
+even: s[499] == s[544] = c == a
+s[523] = a
+even: s[499] == s[546] = c == a
+s[524] = a
+even: s[499] == s[548] = c == a
+s[525] = a
+even: s[499] == s[550] = c == a
+s[526] = a
+even: s[499] == s[552] = c == a
+s[527] = a
+even: s[499] == s[554] = c == a
+s[528] = a
+even: s[499] == s[556] = c == a
+s[529] = a
+even: s[499] == s[558] = c == a
+s[530] = a
+even: s[499] == s[560] = c == a
+s[531] = a
+even: s[499] == s[562] = c == a
+s[532] = a
+even: s[499] == s[564] = c == a
+s[533] = a
+even: s[499] == s[566] = c == a
+s[534] = a
+even: s[499] == s[568] = c == a
+s[535] = a
+even: s[499] == s[570] = c == a
+s[536] = a
+even: s[499] == s[572] = c == a
+s[537] = a
+even: s[499] == s[574] = c == a
+s[538] = a
+even: s[499] == s[576] = c == a
+s[539] = a
+even: s[499] == s[578] = c == a
+s[540] = a
+even: s[499] == s[580] = c == a
+s[541] = a
+even: s[499] == s[582] = c == a
+s[542] = a
+even: s[499] == s[584] = c == a
+s[543] = a
+even: s[499] == s[586] = c == a
+s[544] = a
+even: s[499] == s[588] = c == a
+s[545] = a
+even: s[499] == s[590] = c == a
+s[546] = a
+even: s[499] == s[592] = c == a
+s[547] = a
+even: s[499] == s[594] = c == a
+s[548] = a
+even: s[499] == s[596] = c == a
+s[549] = a
+even: s[499] == s[598] = c == a
+s[550] = a
+even: s[499] == s[600] = c == a
+s[551] = a
+even: s[499] == s[602] = c == a
+s[552] = a
+even: s[499] == s[604] = c == a
+s[553] = a
+even: s[499] == s[606] = c == a
+s[554] = a
+even: s[499] == s[608] = c == a
+s[555] = a
+even: s[499] == s[610] = c == a
+s[556] = a
+even: s[499] == s[612] = c == a
+s[557] = a
+even: s[499] == s[614] = c == a
+s[558] = a
+even: s[499] == s[616] = c == a
+s[559] = a
+even: s[499] == s[618] = c == a
+s[560] = a
+even: s[499] == s[620] = c == a
+s[561] = a
+even: s[499] == s[622] = c == a
+s[562] = a
+even: s[499] == s[624] = c == a
+s[563] = a
+even: s[499] == s[626] = c == a
+s[564] = a
+even: s[499] == s[628] = c == a
+s[565] = a
+even: s[499] == s[630] = c == a
+s[566] = a
+even: s[499] == s[632] = c == a
+s[567] = a
+even: s[499] == s[634] = c == a
+s[568] = a
+even: s[499] == s[636] = c == a
+s[569] = a
+even: s[499] == s[638] = c == a
+s[570] = a
+even: s[499] == s[640] = c == a
+s[571] = a
+even: s[499] == s[642] = c == a
+s[572] = a
+even: s[499] == s[644] = c == a
+s[573] = a
+even: s[499] == s[646] = c == a
+s[574] = a
+even: s[499] == s[648] = c == a
+s[575] = a
+even: s[499] == s[650] = c == a
+s[576] = a
+even: s[499] == s[652] = c == a
+s[577] = a
+even: s[499] == s[654] = c == a
+s[578] = a
+even: s[499] == s[656] = c == a
+s[579] = a
+even: s[499] == s[658] = c == a
+s[580] = a
+even: s[499] == s[660] = c == a
+s[581] = a
+even: s[499] == s[662] = c == a
+s[582] = a
+even: s[499] == s[664] = c == a
+s[583] = a
+even: s[499] == s[666] = c == a
+s[584] = a
+even: s[499] == s[668] = c == a
+s[585] = a
+even: s[499] == s[670] = c == a
+s[586] = a
+even: s[499] == s[672] = c == a
+s[587] = a
+even: s[499] == s[674] = c == a
+s[588] = a
+even: s[499] == s[676] = c == a
+s[589] = a
+even: s[499] == s[678] = c == a
+s[590] = a
+even: s[499] == s[680] = c == a
+s[591] = a
+even: s[499] == s[682] = c == a
+s[592] = a
+even: s[499] == s[684] = c == a
+s[593] = a
+even: s[499] == s[686] = c == a
+s[594] = a
+even: s[499] == s[688] = c == a
+s[595] = a
+even: s[499] == s[690] = c == a
+s[596] = a
+even: s[499] == s[692] = c == a
+s[597] = a
+even: s[499] == s[694] = c == a
+s[598] = a
+even: s[499] == s[696] = c == a
+s[599] = a
+even: s[499] == s[698] = c == a
+s[600] = a
+even: s[499] == s[700] = c == a
+s[601] = a
+even: s[499] == s[702] = c == a
+s[602] = a
+even: s[499] == s[704] = c == a
+s[603] = a
+even: s[499] == s[706] = c == a
+s[604] = a
+even: s[499] == s[708] = c == a
+s[605] = a
+even: s[499] == s[710] = c == a
+s[606] = a
+even: s[499] == s[712] = c == a
+s[607] = a
+even: s[499] == s[714] = c == a
+s[608] = a
+even: s[499] == s[716] = c == a
+s[609] = a
+even: s[499] == s[718] = c == a
+s[610] = a
+even: s[499] == s[720] = c == a
+s[611] = a
+even: s[499] == s[722] = c == a
+s[612] = a
+even: s[499] == s[724] = c == a
+s[613] = a
+even: s[499] == s[726] = c == a
+s[614] = a
+even: s[499] == s[728] = c == a
+s[615] = a
+even: s[499] == s[730] = c == a
+s[616] = a
+even: s[499] == s[732] = c == a
+s[617] = a
+even: s[499] == s[734] = c == a
+s[618] = a
+even: s[499] == s[736] = c == a
+s[619] = a
+even: s[499] == s[738] = c == a
+s[620] = a
+even: s[499] == s[740] = c == a
+s[621] = a
+even: s[499] == s[742] = c == a
+s[622] = a
+even: s[499] == s[744] = c == a
+s[623] = a
+even: s[499] == s[746] = c == a
+s[624] = a
+even: s[499] == s[748] = c == a
+s[625] = a
+even: s[499] == s[750] = c == a
+s[626] = a
+even: s[499] == s[752] = c == a
+s[627] = a
+even: s[499] == s[754] = c == a
+s[628] = a
+even: s[499] == s[756] = c == a
+s[629] = a
+even: s[499] == s[758] = c == a
+s[630] = a
+even: s[499] == s[760] = c == a
+s[631] = a
+even: s[499] == s[762] = c == a
+s[632] = a
+even: s[499] == s[764] = c == a
+s[633] = a
+even: s[499] == s[766] = c == a
+s[634] = a
+even: s[499] == s[768] = c == a
+s[635] = a
+even: s[499] == s[770] = c == a
+s[636] = a
+even: s[499] == s[772] = c == a
+s[637] = a
+even: s[499] == s[774] = c == a
+s[638] = a
+even: s[499] == s[776] = c == a
+s[639] = a
+even: s[499] == s[778] = c == a
+s[640] = a
+even: s[499] == s[780] = c == a
+s[641] = a
+even: s[499] == s[782] = c == a
+s[642] = a
+even: s[499] == s[784] = c == a
+s[643] = a
+even: s[499] == s[786] = c == a
+s[644] = a
+even: s[499] == s[788] = c == a
+s[645] = a
+even: s[499] == s[790] = c == a
+s[646] = a
+even: s[499] == s[792] = c == a
+s[647] = a
+even: s[499] == s[794] = c == a
+s[648] = a
+even: s[499] == s[796] = c == a
+s[649] = a
+even: s[499] == s[798] = c == a
+s[650] = a
+even: s[499] == s[800] = c == a
+s[651] = a
+even: s[499] == s[802] = c == a
+s[652] = a
+even: s[499] == s[804] = c == a
+s[653] = a
+even: s[499] == s[806] = c == a
+s[654] = a
+even: s[499] == s[808] = c == a
+s[655] = a
+even: s[499] == s[810] = c == a
+s[656] = a
+even: s[499] == s[812] = c == a
+s[657] = a
+even: s[499] == s[814] = c == a
+s[658] = a
+even: s[499] == s[816] = c == a
+s[659] = a
+even: s[499] == s[818] = c == a
+s[660] = a
+even: s[499] == s[820] = c == a
+s[661] = a
+even: s[499] == s[822] = c == a
+s[662] = a
+even: s[499] == s[824] = c == a
+s[663] = a
+even: s[499] == s[826] = c == a
+s[664] = a
+even: s[499] == s[828] = c == a
+s[665] = a
+even: s[499] == s[830] = c == a
+s[666] = a
+even: s[499] == s[832] = c == a
+s[667] = a
+even: s[499] == s[834] = c == a
+s[668] = a
+even: s[499] == s[836] = c == a
+s[669] = a
+even: s[499] == s[838] = c == a
+s[670] = a
+even: s[499] == s[840] = c == a
+s[671] = a
+even: s[499] == s[842] = c == a
+s[672] = a
+even: s[499] == s[844] = c == a
+s[673] = a
+even: s[499] == s[846] = c == a
+s[674] = a
+even: s[499] == s[848] = c == a
+s[675] = a
+even: s[499] == s[850] = c == a
+s[676] = a
+even: s[499] == s[852] = c == a
+s[677] = a
+even: s[499] == s[854] = c == a
+s[678] = a
+even: s[499] == s[856] = c == a
+s[679] = a
+even: s[499] == s[858] = c == a
+s[680] = a
+even: s[499] == s[860] = c == a
+s[681] = a
+even: s[499] == s[862] = c == a
+s[682] = a
+even: s[499] == s[864] = c == a
+s[683] = a
+even: s[499] == s[866] = c == a
+s[684] = a
+even: s[499] == s[868] = c == a
+s[685] = a
+even: s[499] == s[870] = c == a
+s[686] = a
+even: s[499] == s[872] = c == a
+s[687] = a
+even: s[499] == s[874] = c == a
+s[688] = a
+even: s[499] == s[876] = c == a
+s[689] = a
+even: s[499] == s[878] = c == a
+s[690] = a
+even: s[499] == s[880] = c == a
+s[691] = a
+even: s[499] == s[882] = c == a
+s[692] = a
+even: s[499] == s[884] = c == a
+s[693] = a
+even: s[499] == s[886] = c == a
+s[694] = a
+even: s[499] == s[888] = c == a
+s[695] = a
+even: s[499] == s[890] = c == a
+s[696] = a
+even: s[499] == s[892] = c == a
+s[697] = a
+even: s[499] == s[894] = c == a
+s[698] = a
+even: s[499] == s[896] = c == a
+s[699] = a
+even: s[499] == s[898] = c == a
+s[700] = a
+even: s[499] == s[900] = c == a
+s[701] = a
+even: s[499] == s[902] = c == a
+s[702] = a
+even: s[499] == s[904] = c == a
+s[703] = a
+even: s[499] == s[906] = c == a
+s[704] = a
+even: s[499] == s[908] = c == a
+s[705] = a
+even: s[499] == s[910] = c == a
+s[706] = a
+even: s[499] == s[912] = c == a
+s[707] = a
+even: s[499] == s[914] = c == a
+s[708] = a
+even: s[499] == s[916] = c == a
+s[709] = a
+even: s[499] == s[918] = c == a
+s[710] = a
+even: s[499] == s[920] = c == a
+s[711] = a
+even: s[499] == s[922] = c == a
+s[712] = a
+even: s[499] == s[924] = c == a
+s[713] = a
+even: s[499] == s[926] = c == a
+s[714] = a
+even: s[499] == s[928] = c == a
+s[715] = a
+even: s[499] == s[930] = c == a
+s[716] = a
+even: s[499] == s[932] = c == a
+s[717] = a
+even: s[499] == s[934] = c == a
+s[718] = a
+even: s[499] == s[936] = c == a
+s[719] = a
+even: s[499] == s[938] = c == a
+s[720] = a
+even: s[499] == s[940] = c == a
+s[721] = a
+even: s[499] == s[942] = c == a
+s[722] = a
+even: s[499] == s[944] = c == a
+s[723] = a
+even: s[499] == s[946] = c == a
+s[724] = a
+even: s[499] == s[948] = c == a
+s[725] = a
+even: s[499] == s[950] = c == a
+s[726] = a
+even: s[499] == s[952] = c == a
+s[727] = a
+even: s[499] == s[954] = c == a
+s[728] = a
+even: s[499] == s[956] = c == a
+s[729] = a
+even: s[499] == s[958] = c == a
+s[730] = a
+even: s[499] == s[960] = c == a
+s[731] = a
+even: s[499] == s[962] = c == a
+s[732] = a
+even: s[499] == s[964] = c == a
+s[733] = a
+even: s[499] == s[966] = c == a
+s[734] = a
+even: s[499] == s[968] = c == a
+s[735] = a
+even: s[499] == s[970] = c == a
+s[736] = a
+even: s[499] == s[972] = c == a
+s[737] = a
+even: s[499] == s[974] = c == a
+s[738] = a
+even: s[499] == s[976] = c == a
+s[739] = a
+even: s[499] == s[978] = c == a
+s[740] = a
+even: s[499] == s[980] = c == a
+s[741] = a
+even: s[499] == s[982] = c == a
+s[742] = a
+even: s[499] == s[984] = c == a
+s[743] = a
+even: s[499] == s[986] = c == a
+s[744] = a
+even: s[499] == s[988] = c == a
+s[745] = a
+even: s[499] == s[990] = c == a
+s[746] = a
+even: s[499] == s[992] = c == a
+s[747] = a
+even: s[499] == s[994] = c == a
+s[748] = a
+even: s[499] == s[996] = c == a
+s[749] = a
+even: s[499] == s[998] = c == a
+s[750] = a
+s[751] = a
+s[752] = a
+s[753] = a
+s[754] = a
+s[755] = a
+s[756] = a
+s[757] = a
+s[758] = a
+s[759] = a
+s[760] = a
+s[761] = a
+s[762] = a
+s[763] = a
+s[764] = a
+s[765] = a
+s[766] = a
+s[767] = a
+s[768] = a
+s[769] = a
+s[770] = a
+s[771] = a
+s[772] = a
+s[773] = a
+s[774] = a
+s[775] = a
+s[776] = a
+s[777] = a
+s[778] = a
+s[779] = a
+s[780] = a
+s[781] = a
+s[782] = a
+s[783] = a
+s[784] = a
+s[785] = a
+s[786] = a
+s[787] = a
+s[788] = a
+s[789] = a
+s[790] = a
+s[791] = a
+s[792] = a
+s[793] = a
+s[794] = a
+s[795] = a
+s[796] = a
+s[797] = a
+s[798] = a
+s[799] = a
+s[800] = a
+s[801] = a
+s[802] = a
+s[803] = a
+s[804] = a
+s[805] = a
+s[806] = a
+s[807] = a
+s[808] = a
+s[809] = a
+s[810] = a
+s[811] = a
+s[812] = a
+s[813] = a
+s[814] = a
+s[815] = a
+s[816] = a
+s[817] = a
+s[818] = a
+s[819] = a
+s[820] = a
+s[821] = a
+s[822] = a
+s[823] = a
+s[824] = a
+s[825] = a
+s[826] = a
+s[827] = a
+s[828] = a
+s[829] = a
+s[830] = a
+s[831] = a
+s[832] = a
+s[833] = a
+s[834] = a
+s[835] = a
+s[836] = a
+s[837] = a
+s[838] = a
+s[839] = a
+s[840] = a
+s[841] = a
+s[842] = a
+s[843] = a
+s[844] = a
+s[845] = a
+s[846] = a
+s[847] = a
+s[848] = a
+s[849] = a
+s[850] = a
+s[851] = a
+s[852] = a
+s[853] = a
+s[854] = a
+s[855] = a
+s[856] = a
+s[857] = a
+s[858] = a
+s[859] = a
+s[860] = a
+s[861] = a
+s[862] = a
+s[863] = a
+s[864] = a
+s[865] = a
+s[866] = a
+s[867] = a
+s[868] = a
+s[869] = a
+s[870] = a
+s[871] = a
+s[872] = a
+s[873] = a
+s[874] = a
+s[875] = a
+s[876] = a
+s[877] = a
+s[878] = a
+s[879] = a
+s[880] = a
+s[881] = a
+s[882] = a
+s[883] = a
+s[884] = a
+s[885] = a
+s[886] = a
+s[887] = a
+s[888] = a
+s[889] = a
+s[890] = a
+s[891] = a
+s[892] = a
+s[893] = a
+s[894] = a
+s[895] = a
+s[896] = a
+s[897] = a
+s[898] = a
+s[899] = a
+s[900] = a
+s[901] = a
+s[902] = a
+s[903] = a
+s[904] = a
+s[905] = a
+s[906] = a
+s[907] = a
+s[908] = a
+s[909] = a
+s[910] = a
+s[911] = a
+s[912] = a
+s[913] = a
+s[914] = a
+s[915] = a
+s[916] = a
+s[917] = a
+s[918] = a
+s[919] = a
+s[920] = a
+s[921] = a
+s[922] = a
+s[923] = a
+s[924] = a
+s[925] = a
+s[926] = a
+s[927] = a
+s[928] = a
+s[929] = a
+s[930] = a
+s[931] = a
+s[932] = a
+s[933] = a
+s[934] = a
+s[935] = a
+s[936] = a
+s[937] = a
+s[938] = a
+s[939] = a
+s[940] = a
+s[941] = a
+s[942] = a
+s[943] = a
+s[944] = a
+s[945] = a
+s[946] = a
+s[947] = a
+s[948] = a
+s[949] = a
+s[950] = a
+s[951] = a
+s[952] = a
+s[953] = a
+s[954] = a
+s[955] = a
+s[956] = a
+s[957] = a
+s[958] = a
+s[959] = a
+s[960] = a
+s[961] = a
+s[962] = a
+s[963] = a
+s[964] = a
+s[965] = a
+s[966] = a
+s[967] = a
+s[968] = a
+s[969] = a
+s[970] = a
+s[971] = a
+s[972] = a
+s[973] = a
+s[974] = a
+s[975] = a
+s[976] = a
+s[977] = a
+s[978] = a
+s[979] = a
+s[980] = a
+s[981] = a
+s[982] = a
+s[983] = a
+s[984] = a
+s[985] = a
+s[986] = a
+s[987] = a
+s[988] = a
+s[989] = a
+s[990] = a
+s[991] = a
+s[992] = a
+s[993] = a
+s[994] = a
+s[995] = a
+s[996] = a
+s[997] = a
+s[998] = a
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabc
